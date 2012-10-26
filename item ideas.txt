@@ -1,0 +1,41 @@
+// Items
+
+common
+
+-hp potion (restore health)
+-mana potion (restore mana)
+-scroll of fireball (area of affect damage)
+-scroll of lightning bolt (direct damage)
+-scroll of confusion (monster will wander around aimlessly for y turns)
+
+uncommon
+
+-strength potion (raises strength by x for y turns)
+-defense potion (raises defense by x for y turns)
+-scroll of blizzard (all units in affected area take x damage)
+-scroll of fear (monster flees player for y turns)
+-scroll of aquabolt (direct damage)
+
+rare
+
+-Stocky Crossbow (decent damage crossbow)
+-scroll of invisibility (go invisible for y turns)
+-well-used helmet (standar helmet)
+-heavy broadsword (decent damage sword)
+-scroll of gravity (pulls all enemies towards point)
+
+epic
+
+-Void Lord's Halfblades (twin daggers, each hit deals bonus poison damage)
+-Undead Chainmail (raises armor, extra damage vs undead)
+-Scroll of Obliterate (one shot kill any non-boss)
+-Scroll of Siphoning (steal x life from attacks for y turns)
+-Scroll of Immobilize (lock an enemy in place for y turns)
+
+legendary
+
+-Alterlocus (ressurect once on death)
+-Hackin's Lash (whip, increases melee range)
+-Feathershot (high range bow)
+-Argenteus (increases a stat of your choice permanently 3x normal amount)
+-Marrowsplitter (massive damage melee weapon, every swing damages user)
