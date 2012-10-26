@@ -25,11 +25,11 @@ Then simply double click on main.py (or launch from command line)
 
 ##dependencies
 
-Hackin's lash uses [libtcod][d] and [SDL][s] for graphics. They are both included in the repo.
+Hackin's lash uses [libtcod][l] and [SDL][s] for graphics. They are both included in the repo.
 
 ##controls
 
 A full list of controls can be found in the help menu ingame.
 
-[d]:http://doryen.eptalys.net/libtcod/
+[l]:http://doryen.eptalys.net/libtcod/
 [s]:http://www.libsdl.org/
